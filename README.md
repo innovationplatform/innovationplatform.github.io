@@ -1,1 +1,0 @@
-# innovationplatform.github.io
