@@ -54,13 +54,21 @@ a, a:hover, a:active{ outline:0px !important}
 
 /* Primary Styles
 ---------------------------------*/
+.tab { margin-left: 40px; }
 
 body {
-	background:#fff;
+	background:#FFF;
 	font-family: 'Open Sans', sans-serif;
 	font-size:14px;
 	font-weight:normal;
 	color:#888888;
+	margin:0;
+}
+.lead {
+	font-family: 'Open Sans', sans-serif;
+	font-size:20px;
+	font-weight:normal;
+	color:#000000;
 	margin:0;
 }
 h2{
@@ -76,7 +84,7 @@ h2{
 h3{
 	font-family: 'Montserrat', sans-serif;
 	color:#222222;
-	font-size:16px;
+	font-size:22px;
 	margin:0 0 5px 0;
 	text-transform:uppercase;
 	font-weight:400;
@@ -353,7 +361,7 @@ color: #FF0000;
 	font-family: 'FontAwesome';
 	display:inline-block;
 	font-size:28px;
-	color:#fff;	
+	color:#FFF;	
 	transition:all 0.3s ease-in-out;
 	-moz-transition:all 0.3s ease-in-out;
 	-webkit-transition:all 0.3s ease-in-out;
